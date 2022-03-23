@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>CliMates pod</title>
+    <itunes:owner>
+        <itunes:email>climates@mtbf.se</itunes:email>
+    </itunes:owner>
+    <itunes:author>CliMates</itunes:author>
+    <description>En climatpod av 3 vänner.</description>
+    <itunes:image href="https://github.com/climatespod/pods/raw/main/images/climates.png"/>
+    <language>sv-SE</language>
+    <link>https://github.com/climatespod/pods/</link>
+    <item>
+      <title>Pilot</title>
+      <description>Diskution om elbilar.</description>
+      <pubDate>Tue, 14 Mar 2017 12:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/climatespod/pods/raw/main/episodes/ClimatesPilot5b.mp3"
+                 type="audio/mpeg" length="34216300"/>
+      <itunes:duration>14:59</itunes:duration>
+      <guid isPermaLink="false">pilot1</guid>
+    </item>
+  </channel>
+</rss>
