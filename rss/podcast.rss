@@ -7,6 +7,7 @@
         <itunes:email>climates@mtbf.se</itunes:email>
     </itunes:owner>
     <itunes:author>CliMates</itunes:author>
+    <itunes:category text="Education" />
     <description>En climatpod av 3 vänner.</description>
     <itunes:image href="https://github.com/climatespod/pods/raw/main/images/climates.png"/>
     <language>sv-SE</language>
