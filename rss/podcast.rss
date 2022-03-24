@@ -9,7 +9,7 @@
     <itunes:author>CliMates</itunes:author>
     <itunes:category text="Education" />
     <description>En climatpod av 3 vänner.</description>
-    <itunes:image href="https://github.com/climatespod/pods/raw/main/images/climates.png"/>
+    <itunes:image href="https://raw.githubusercontent.com/climatespod/pods/main/images/eup.png"/>
     <language>sv-SE</language>
     <link>https://github.com/climatespod/pods/</link>
     <item>
