@@ -23,5 +23,14 @@
       <itunes:duration>14:59</itunes:duration>
       <guid isPermaLink="false">pilot1</guid>
     </item>
+     <item>
+      <title>CliMates - Inte bacon</title>
+      <description>Val kring mat och hur det påverkar klimatet.</description>
+      <pubDate>Monday, 28 March 2022 18:00:00 CET</pubDate>
+      <enclosure url="https://github.com/climatespod/pods/raw/main/episodes/ClimatesPilot4.mp3"
+                 type="audio/mpeg" length="34216300"/>
+      <itunes:duration>23:36</itunes:duration>
+      <guid isPermaLink="false">pilot2</guid>
+    </item>
   </channel>
 </rss>
