@@ -14,6 +14,15 @@
     <itunes:image href="https://raw.githubusercontent.com/climatespod/pods/main/images/eup.jpg"/>
     <language>sv-SE</language>
     <link>https://github.com/climatespod/pods/</link>
+     <item>
+      <title>CliMates - Inte bacon</title>
+      <description>Val kring mat och hur det p&aring;verkar klimatet.</description>
+      <pubDate>Monday, 28 March 2022 18:00:00 CET</pubDate>
+      <enclosure url="https://github.com/climatespod/pods/raw/main/episodes/ClimatesPilot4.mp3"
+                 type="audio/mpeg" length="35392339968"/>
+      <itunes:duration>23:36</itunes:duration>
+      <guid isPermaLink="false">pilot2</guid>
+    </item>
     <item>
       <title>CliMates - Pilot</title>
       <description>Diskution om bland annat elbilar och konfliktmineraler.</description>
@@ -22,15 +31,6 @@
                  type="audio/mpeg" length="34216300"/>
       <itunes:duration>14:59</itunes:duration>
       <guid isPermaLink="false">pilot1</guid>
-    </item>
-     <item>
-      <title>CliMates - Inte bacon</title>
-      <description>Val kring mat och hur det påverkar klimatet.</description>
-      <pubDate>Monday, 28 March 2022 18:00:00 CET</pubDate>
-      <enclosure url="https://github.com/climatespod/pods/raw/main/episodes/ClimatesPilot4.mp3"
-                 type="audio/mpeg" length="34216300"/>
-      <itunes:duration>23:36</itunes:duration>
-      <guid isPermaLink="false">pilot2</guid>
     </item>
   </channel>
 </rss>
