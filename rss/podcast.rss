@@ -13,6 +13,15 @@
     <itunes:image href="https://raw.githubusercontent.com/climatespod/pods/main/images/eup.jpg"/>
     <language>sv-SE</language>
     <link>https://github.com/climatespod/pods/</link>
+         <item>
+      <title>CliMates - Diselpris</title>
+      <description>Diskution om bränslekostnader.</description>
+      <pubDate>Thursday, 7 April 2022 18:00:00 CET</pubDate>
+      <enclosure url="https://github.com/climatespod/pods/raw/main/episodes/CliMates3.mp3"
+                 type="audio/mpeg" length="3435000"/>
+      <itunes:duration>24:33</itunes:duration>
+      <guid isPermaLink="false">pilot1</guid>
+    </item>
      <item>
       <title>CliMates - Inte bacon</title>
       <description>Val kring mat och hur det påverkar klimatet.</description>
