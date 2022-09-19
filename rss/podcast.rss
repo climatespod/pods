@@ -13,7 +13,16 @@
     <itunes:image href="https://raw.githubusercontent.com/climatespod/pods/main/images/eup.jpg"/>
     <language>sv-SE</language>
     <link>https://github.com/climatespod/pods/</link>
-         <item>
+    <item>
+      <title>CliMates - Vuxnas McDonald's-kalas</title>
+      <description>Dåliga konferensval.</description>
+      <pubDate>Wednessday, 7 Septembert 2022 18:00:00 CET</pubDate>
+      <enclosure url="https://github.com/climatespod/pods/raw/main/episodes/CliMates4.mp3"
+                 type="audio/mpeg" length="3435000"/>
+      <itunes:duration>23:22</itunes:duration>
+      <guid isPermaLink="false">pilot4</guid>
+    </item>
+    <item>
       <title>CliMates - Diselpris</title>
       <description>Diskution om bränslekostnader.</description>
       <pubDate>Thursday, 7 April 2022 18:00:00 CET</pubDate>
