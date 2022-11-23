@@ -3,7 +3,7 @@
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Climates</title>
-    <ttl>60</ttl>
+    <ttl>61</ttl>
     <itunes:owner>
         <itunes:email>climates@mtbf.se</itunes:email>
     </itunes:owner>
