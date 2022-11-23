@@ -2,33 +2,32 @@
 <rss version="2.0"
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>CliMates pod</title>
+    <title>Climates</title>
     <ttl>60</ttl>
     <itunes:owner>
         <itunes:email>climates@mtbf.se</itunes:email>
     </itunes:owner>
-    <itunes:author>CliMates</itunes:author>
+    <itunes:author>Climates</itunes:author>
     <itunes:category text="Education" />
-    <description>En climatpod av 3 vänner.</description>
+    <description>En klimatpodd med tre vänner.</description>
     <itunes:image href="https://raw.githubusercontent.com/climatespod/pods/main/images/eup.jpg"/>
     <language>sv-SE</language>
     <link>https://github.com/climatespod/pods/</link>
     <item>
-      <title>CliMates - Vuxnas McDonald's-kalas</title>
-      <description>Vännerna har fått en hemläxa på att fundera på fem dåliga klimatval kring en arbetskonferens – och de kan knabbt bärga sig från att kommentera! 
-Perspektiven är återigen olika i Kanada och på de IT-konferanser, som Benny brukar bli bjuden till. Är ”Give-aways” verkligen nödvändiga på en konferens – eller blir det hela bara ett Vuxenkalas på en snabbmatsrestaurang!? 
-.</description>
+      <title>Vuxnas McDonald's-kalas</title>
+      <description>Vännerna har fått en hemläxa på att fundera på fem dåliga klimatval kring en arbetskonferens – och de kan knabbt bärga sig från att kommentera! Perspektiven är återigen olika i Kanada och på de IT-konferanser som Benny brukar bli bjuden till.
+
+      Är ”give-aways” verkligen nödvändiga på en konferens – eller blir det hela bara ett vuxenkalas på en snabbmatsrestaurang!?</description>
       <pubDate>Wednesday, 7 September 2022 18:00:00 CET</pubDate>
-      <enclosure url="https://github.com/climatespod/pods/raw/main/episodes/Climates4.mp3"
-                 type="audio/mpeg" length="3435000"/>
+      <enclosure url="https://github.com/climatespod/pods/raw/main/episodes/Climates4.mp3" type="audio/mpeg"/>
       <itunes:duration>23:22</itunes:duration>
       <guid isPermaLink="false">pilot4</guid>
     </item>
     <item>
-      <title>CliMates - Dieselpris</title>
+      <title>Dieselpriset</title>
       <description>Bränslepriser skjuter upp i höjder som följd av världskriserna. Detta leder till att folk i Davids hemstad Ottawa byter ut sina stora pick-ups till medelstora (i deras mått små) sedan-bilar – medan Benny har räknat upp  det är dyrare för kvinnor att köra bil här i Sverige. Hur kommer det sig?
-Häng med på baksätet när vännerna killgissar sig fram till olika perspektiven!
-</description>
+
+      Häng med på baksätet när vännerna killgissar sig fram till olika perspektiven!</description>
       <pubDate>Thursday, 7 April 2022 18:00:00 CET</pubDate>
       <enclosure url="https://github.com/climatespod/pods/raw/main/episodes/CliMates3.mp3"
                  type="audio/mpeg" length="3435000"/>
@@ -36,24 +35,22 @@ Häng med på baksätet när vännerna killgissar sig fram till olika perspektiv
       <guid isPermaLink="false">pilot3</guid>
     </item>
      <item>
-      <title>CliMates - Inte bacon</title>
+      <title>"Inte bacon"</title>
       <description>Hur påverkar vårt val av mat den negativa klimatutvecklingen? I det här vilda avsnittet diskuterar våra vänner vilka olika val de har gjort i sina familjer. David i Ottawa, Kanada handlar matvarorna för sina köttfria dagar i storpack, i Bennys familj satsar man på mycket grönsaker och hos Vesas tonårsfamilj står det numera 45 burkar bönor i skafferiet! Hur gick det där till?
-Följ med när killarna kopplar upp för ett klimatsamtal tvärs över Atlanten!
-</description>
+
+      Följ med när killarna kopplar upp för ett klimatsamtal tvärs över Atlanten!</description>
       <pubDate>Monday, 28 March 2022 18:00:00 CET</pubDate>
-      <enclosure url="https://github.com/climatespod/pods/raw/main/episodes/ClimatesPilot4.mp3"
-                 type="audio/mpeg" length="35392339968"/>
+      <enclosure url="https://github.com/climatespod/pods/raw/main/episodes/ClimatesPilot4.mp3" type="audio/mpeg"/>
       <itunes:duration>23:36</itunes:duration>
       <guid isPermaLink="false">pilot2</guid>
     </item>
     <item>
-      <title>CliMates - Pilot</title>
-      <description>I det här pilotavsnittet diskuterar David, Benny och Vesa inskaffandet av en elbil. Vesa är ju i processen att skrota sin gamla bil och investera i ett nytt, bättre alternativ till vardagskörandet. Men är det är rätt tid att skaffa en elbil och är det verkligen det bästa alternativet från klimatsynpunkt? Det måste ju bland annat tas fram omdiskuteraråvaror att tillverka en, i världen kända som ”conflict minerals”.
-Följ med till kompisarnas diskussion i den virtuella soffan på klimatkafeét!
-</description>
+      <title>Elbil</title>
+      <description>I det här pilotavsnittet diskuterar David, Benny och Vesa inskaffandet av en elbil. Vesa är ju i processen att skrota sin gamla bil och investera i ett nytt, bättre alternativ till vardagskörandet. Men är det är rätt tid att skaffa en elbil och är det verkligen det bästa alternativet från klimatsynpunkt? Det måste ju bland annat tas fram omdiskuteraråvaror att tillverka en, i världen kända som konfliktmineraler.
+
+      Följ med till kompisarnas diskussion i den virtuella soffan på klimatkafeét!</description>
       <pubDate>Wednesday, 23 March 2022 21:00:00 CET</pubDate>
-      <enclosure url="https://github.com/climatespod/pods/raw/main/episodes/ClimatesPilot5b.mp3"
-                 type="audio/mpeg" length="34216300"/>
+      <enclosure url="https://github.com/climatespod/pods/raw/main/episodes/ClimatesPilot5b.mp3" type="audio/mpeg"/>
       <itunes:duration>14:59</itunes:duration>
       <guid isPermaLink="false">pilot1</guid>
     </item>
